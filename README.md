@@ -4,3 +4,6 @@
 
 ### you can ensure that your code is fucntioning effectively with no security risks or opening by efficiently checking the functionality by implementing unit testing on various class operating within the programs structure.
 
+### One way that I approach the development of software is by listening to the user or employeers requirments then ensuring those requirments are adeqately met within the sufficient amount of time set forth using your knowledge of programming and ensuring no security risks are present before the project it put into production with the client.
+
+_Ray_🔥
